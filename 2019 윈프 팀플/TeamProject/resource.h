@@ -1,0 +1,122 @@
+﻿//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++에서 생성한 포함 파일입니다.
+// TeamProject.rc에서 사용되고 있습니다.
+//
+#define IDD_ABOUTBOX                    100
+#define IDD_TEAMPROJECT_FORM            101
+#define IDR_MAINFRAME                   128
+#define IDR_TeamProjectTYPE             130
+#define IDD_DIALOG_CUTPREV              311
+#define IDD_DIALOG_SATURATION           311
+#define IDI_ICON1                       312
+#define IDD_DIALOG_GRAY                 312
+#define IDB_PEN1                        313
+#define IDD_DIALOG_BLUR                 313
+#define IDB_PEN2                        314
+#define IDB_PEN3                        315
+#define IDD_DIALOG_ALPHA                315
+#define IDB_SELECT1                     316
+#define IDD_DIALOG_MOSAIC               316
+#define IDB_SELECT2                     317
+#define IDD_DIALOG_EDITLAYER            317
+#define IDB_SELECT3                     318
+#define IDD_DIALOG_ADDLAYER             318
+#define IDB_CHANGECOLOR1                319
+#define IDB_CHANGECOLOR2                320
+#define IDB_CHANGECOLOR3                321
+#define IDB_CIRCLE1                     322
+#define IDB_CIRCLE2                     323
+#define IDB_CIRCLE3                     324
+#define IDB_RECTANGLE1                  325
+#define IDB_RECTANGLE2                  326
+#define IDB_RECTANGLE3                  327
+#define IDB_FREELINE1                   328
+#define IDB_FREELINE2                   329
+#define IDB_FREELINE3                   330
+#define IDB_LINE1                       331
+#define IDB_LINE2                       332
+#define IDB_LINE3                       333
+#define IDB_MAGNIFY1                    334
+#define IDB_MAGNIFY2                    335
+#define IDB_MAGNIFY3                    336
+#define IDB_TEXT1                       337
+#define IDB_TEXT2                       338
+#define IDB_TEXT3                       339
+#define IDB_PAINT2                      340
+#define IDB_SPOID3                      341
+#define IDB_PAINT1                      342
+#define IDB_ERASER1                     343
+#define IDB_PAINT3                      344
+#define IDB_ERASER2                     345
+#define IDB_ERASER3                     346
+#define IDB_SPOID1                      347
+#define IDB_SPOID2                      348
+#define IDC_PREV_PIC                    1000
+#define IDC_APPLYBT                     1004
+#define IDC_PEN                         1006
+#define IDC_SELECT                      1007
+#define IDC_PAINT2                      1008
+#define IDC_LIST2                       1009
+#define IDC_SLIDER_ALPHA                1009
+#define IDC_TEXT                        1010
+#define IDC_SLIDER_BETA                 1010
+#define IDC_ERASER                      1011
+#define IDC_SLIDER_HUE                  1011
+#define IDC_SPOID                       1012
+#define IDC_MAGNIFY                     1013
+#define IDC_TEST_HUE                    1013
+#define IDC_LINE                        1014
+#define IDC_FREELINE                    1015
+#define IDC_CIRCLE                      1016
+#define IDC_TEXT_SAT                    1016
+#define IDC_RECTANGLE                   1017
+#define IDC_SLIDER_SAT                  1017
+#define IDC_CHANGECOLOR                 1018
+#define IDC_CHECK_GREY                  1018
+#define IDC_SLIDER_BLUR                 1018
+#define IDC_LIST1                       1020
+#define IDC_LIST_LAYER                  1020
+#define IDC_EDIT1                       1021
+#define IDC_COLOR1                      1021
+#define IDC_BUTTON1                     1022
+#define IDC_BUTTON_ADD                  1022
+#define IDC_COLOR2                      1023
+#define IDC_RADIO1                      1023
+#define IDC_BUTTON2                     1024
+#define IDC_BUTTON_CHOOSEFILE           1024
+#define IDC_BUTTON_REMOVE               1024
+#define IDC_RADIO2                      1025
+#define IDC_SLIDER1                     1026
+#define IDC_RADIOCIRCLE                 1027
+#define IDC_EDIT2                       1027
+#define IDC_RADIORECTANGLE              1028
+#define IDC_CHECK_SHOWLAYER             1030
+#define IDC_TEXT_BLUR                   1031
+#define IDC_EDIT_LAYERNAME              1031
+#define IDC_SLIDER_MOSAIC               1032
+#define IDC_CHECK_TRANSCOLORLAYER       1032
+#define IDC_PIC_TCOLOR                  1033
+#define IDC_BUTTON_CHOOSECOLOR          1034
+#define IDC_EDIT_NAME                   1036
+#define IDC_STATIC_PATH                 1037
+#define IDC_EDIT_OPACITY                1039
+#define ID_32771                        32771
+#define ID_32772                        32772
+#define ID_32773                        32773
+#define ID_32774                        32774
+#define ID_32775                        32775
+#define ID_32776                        32776
+#define ID_GG_G                         32777
+#define ID_32778                        32778
+#define ID_32779                        32779
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        353
+#define _APS_NEXT_COMMAND_VALUE         32780
+#define _APS_NEXT_CONTROL_VALUE         1033
+#define _APS_NEXT_SYMED_VALUE           310
+#endif
+#endif
